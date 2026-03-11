@@ -4,7 +4,9 @@
 
 # Hi there, I'm Yash Ranpariya! 👋
 
-### 🚀 Passionate Developer | Open Source Enthusiast | Lifelong Learner
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0e75b6&width=435&lines=Passionate+Developer;Open+Source+Enthusiast;Lifelong+Learner;Always+Learning+New+Tech!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-ranpariya-171809375/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -116,7 +118,7 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 🌙 Moon Phase
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/themoeway/moon-svg/master/moon.svg" alt="Moon Phase" width="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" alt="Moon Phase" width="100" />
 </div>
 
 ---
