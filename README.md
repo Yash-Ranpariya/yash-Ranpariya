@@ -118,7 +118,7 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 🌙 Moon Phase
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" alt="Moon Phase" width="100" />
+  <img src="https://raw.githubusercontent.com/Yash-Ranpariya/yash-Ranpariya/main/moon.svg" alt="Moon Phase" width="100" />
 </div>
 
 ---
