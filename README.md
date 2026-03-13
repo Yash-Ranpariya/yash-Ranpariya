@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Hardly anybody recognizes the most significant moments of their life at the time they happen.* — **W.P. Kinsella** <!-- END QUOTE -->
+*Presents are made for the pleasure of who gives them, not the merits of who receives them.* — **Carlos Ruiz Zafon** <!-- END QUOTE -->
