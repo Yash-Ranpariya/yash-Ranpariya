@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Start each day with a positive thought and a grateful heart.* — **Roy T. Bennett** <!-- END QUOTE -->
+*The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.* — **Ming-Dao Deng** <!-- END QUOTE -->
