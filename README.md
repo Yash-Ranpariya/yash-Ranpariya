@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace.* — **Ming-Dao Deng** <!-- END QUOTE -->
+*We are willing to believe anything other than the truth.* — **Carlos Ruiz Zafon** <!-- END QUOTE -->
