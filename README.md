@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*You are your best thing.* — **Toni Morrison** <!-- END QUOTE -->
+*If life were predictable it would cease to be life, and be without flavor.* — **Eleanor Roosevelt** <!-- END QUOTE -->
