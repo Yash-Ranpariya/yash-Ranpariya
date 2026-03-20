@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*If life were predictable it would cease to be life, and be without flavor.* — **Eleanor Roosevelt** <!-- END QUOTE -->
+*To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.* — **Johann Wolfgang von Goethe** <!-- END QUOTE -->
