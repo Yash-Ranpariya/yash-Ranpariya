@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.* — **Johann Wolfgang von Goethe** <!-- END QUOTE -->
+*Take care of your cents: dollars will take care of themselves.* — **Thomas Jefferson** <!-- END QUOTE -->
