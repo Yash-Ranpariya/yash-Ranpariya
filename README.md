@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Take care of your cents: dollars will take care of themselves.* — **Thomas Jefferson** <!-- END QUOTE -->
+*Adventure is worthwhile in itself.* — **Amelia Earhart** <!-- END QUOTE -->
