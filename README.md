@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Adventure is worthwhile in itself.* — **Amelia Earhart** <!-- END QUOTE -->
+*Life itself is the most wonderful fairy tale.* — **Hans Christian Andersen** <!-- END QUOTE -->
