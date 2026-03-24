@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Life itself is the most wonderful fairy tale.* — **Hans Christian Andersen** <!-- END QUOTE -->
+*To raise your consciousness, surround yourself with people of higher consciousness.* — **Celestine Chua** <!-- END QUOTE -->
