@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. * — **Jack London** <!-- END QUOTE -->
+*Identification with our mind causes thought to become compulsive.* — **Eckhart Tolle** <!-- END QUOTE -->
