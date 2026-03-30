@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Peace of mind is that mental condition in which you have accepted the worst.* — **Lin Yutang** <!-- END QUOTE -->
+*Debt is the slavery of the free.* — **Publilius Syrus** <!-- END QUOTE -->
