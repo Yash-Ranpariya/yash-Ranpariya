@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Debt is the slavery of the free.* — **Publilius Syrus** <!-- END QUOTE -->
+*None but ourselves can free our minds.* — **Bob Marley** <!-- END QUOTE -->
