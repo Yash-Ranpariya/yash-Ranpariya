@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*None but ourselves can free our minds.* — **Bob Marley** <!-- END QUOTE -->
+*We've got to live, no matter how many skies have fallen.* — **D. H. Lawrence** <!-- END QUOTE -->
