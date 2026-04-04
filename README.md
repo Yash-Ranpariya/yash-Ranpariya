@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*First say to yourself what you would be; and then do what you have to do.* — **Epictetus** <!-- END QUOTE -->
+*Growth is in a series of mistakes. That's the only way you learn.* — **Steve Harvey** <!-- END QUOTE -->
