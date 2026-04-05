@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Growth is in a series of mistakes. That's the only way you learn.* — **Steve Harvey** <!-- END QUOTE -->
+*Growth comes at the point of resistance.* — **Josh Waitzkin** <!-- END QUOTE -->
