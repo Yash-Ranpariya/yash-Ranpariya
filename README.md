@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Growth comes at the point of resistance.* — **Josh Waitzkin** <!-- END QUOTE -->
+*Our deeds determine us, as much as we determine our deeds.* — **George Eliot** <!-- END QUOTE -->
