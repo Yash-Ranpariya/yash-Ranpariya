@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Our deeds determine us, as much as we determine our deeds.* — **George Eliot** <!-- END QUOTE -->
+*Giving back involves a certain amount of giving up.* — **Colin Powell** <!-- END QUOTE -->
