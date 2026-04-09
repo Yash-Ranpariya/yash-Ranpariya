@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Giving back involves a certain amount of giving up.* — **Colin Powell** <!-- END QUOTE -->
+*Every saint has a past, and every sinner has a future.* — **Oscar Wilde** <!-- END QUOTE -->
