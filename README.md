@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.* — **William Faulkner** <!-- END QUOTE -->
+*Doubt is an uncomfortable condition, but certainty is a ridiculous one.* — **Voltaire** <!-- END QUOTE -->
