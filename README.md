@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Doubt is an uncomfortable condition, but certainty is a ridiculous one.* — **Voltaire** <!-- END QUOTE -->
+*Creativity is the greatest rebellion in existence.* — **Osho** <!-- END QUOTE -->
