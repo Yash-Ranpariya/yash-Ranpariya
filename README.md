@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Because of your smile, you make life more beautiful.* — **Thich Nhat Hanh** <!-- END QUOTE -->
+*The one who praises you is a thief. The one who criticizes you is your true friend.* — **Seungsahn** <!-- END QUOTE -->
