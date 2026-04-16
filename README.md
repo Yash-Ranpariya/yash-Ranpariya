@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Every act of creation is first an act of destruction.* — **Pablo Picasso** <!-- END QUOTE -->
+*Someday death will take us to another star.* — **Vincent van Gogh** <!-- END QUOTE -->
