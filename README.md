@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Someday death will take us to another star.* — **Vincent van Gogh** <!-- END QUOTE -->
+*The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.* — **Steve Maraboli** <!-- END QUOTE -->
