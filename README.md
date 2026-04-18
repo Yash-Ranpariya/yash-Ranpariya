@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.* — **Steve Maraboli** <!-- END QUOTE -->
+*If there were no God, there would be no atheists.* — **Gilbert Chesterton** <!-- END QUOTE -->
