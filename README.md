@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*If there were no God, there would be no atheists.* — **Gilbert Chesterton** <!-- END QUOTE -->
+*My definition of success is control.* — **Kenneth Branagh** <!-- END QUOTE -->
