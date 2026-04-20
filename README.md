@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*My definition of success is control.* — **Kenneth Branagh** <!-- END QUOTE -->
+*Death is not an ending. It is a transformation.* — **Ming-Dao Deng** <!-- END QUOTE -->
