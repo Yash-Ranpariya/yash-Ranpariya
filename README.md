@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Death is not an ending. It is a transformation.* — **Ming-Dao Deng** <!-- END QUOTE -->
+*Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.* — **Mark Twain** <!-- END QUOTE -->
