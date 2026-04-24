@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Yesterday is but today's memory, tomorrow is today's dream.* — **Kahlil Gibran** <!-- END QUOTE -->
+*In order for you to be the BEST you can be for others, first you must be BEST for yourself.* — **Jeffrey Gitomer** <!-- END QUOTE -->
