@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.* — **Sonia Ricotti** <!-- END QUOTE -->
+*The first principle of success is desire.* — **Robert Collier** <!-- END QUOTE -->
