@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The first principle of success is desire.* — **Robert Collier** <!-- END QUOTE -->
+*There are dark shadows on the earth, but its lights are stronger in the contrast.* — **Charles Dickens** <!-- END QUOTE -->
