@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The more something scares you, the more you should do it.* — **Mark Manson** <!-- END QUOTE -->
+*Instead of worrying about what you cannot control, shift your energy to what you can create.* — **Roy T. Bennett** <!-- END QUOTE -->
