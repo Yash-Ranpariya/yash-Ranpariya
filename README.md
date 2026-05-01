@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Instead of worrying about what you cannot control, shift your energy to what you can create.* — **Roy T. Bennett** <!-- END QUOTE -->
+*I must also have a dark side if I am to be whole.* — **Carl Jung** <!-- END QUOTE -->
