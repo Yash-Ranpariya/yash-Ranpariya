@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*I must also have a dark side if I am to be whole.* — **Carl Jung** <!-- END QUOTE -->
+*The only normal people are the ones you don't know very well.* — **Alfred Adler** <!-- END QUOTE -->
