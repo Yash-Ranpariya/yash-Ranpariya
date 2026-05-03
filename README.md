@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The only normal people are the ones you don't know very well.* — **Alfred Adler** <!-- END QUOTE -->
+*I am thankful to all who said no to me. It is because of them that I'm doing it myself.* — **Albert Einstein** <!-- END QUOTE -->
