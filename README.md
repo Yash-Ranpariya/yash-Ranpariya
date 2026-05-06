@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The heart wants what it wants - or else it does not care.* — **Emily Dickinson** <!-- END QUOTE -->
+*If you can see it in your mind, you can hold it in your mind.* — **Steve Harvey** <!-- END QUOTE -->
