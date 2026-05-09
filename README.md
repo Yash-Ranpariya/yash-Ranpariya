@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*You are today where your thoughts have brought you.* — **James Allen** <!-- END QUOTE -->
+*Do not pray for an easy life, pray for the strength to endure a difficult one.  * — **Bruce Lee** <!-- END QUOTE -->
