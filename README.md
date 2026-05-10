@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Do not pray for an easy life, pray for the strength to endure a difficult one.  * — **Bruce Lee** <!-- END QUOTE -->
+*To affect the quality of the day, that is the highest of arts.* — **Henry David Thoreau** <!-- END QUOTE -->
