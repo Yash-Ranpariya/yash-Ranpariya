@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*To affect the quality of the day, that is the highest of arts.* — **Henry David Thoreau** <!-- END QUOTE -->
+*As soon as you truly commit to making something happen, the 'how' will reveal itself.* — **Tony Robbins** <!-- END QUOTE -->
