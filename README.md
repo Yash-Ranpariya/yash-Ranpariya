@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*As soon as you truly commit to making something happen, the 'how' will reveal itself.* — **Tony Robbins** <!-- END QUOTE -->
+*Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today.* — **Andrew Carnegie** <!-- END QUOTE -->
