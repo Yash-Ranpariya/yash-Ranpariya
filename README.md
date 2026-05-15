@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*To be totally at leisure for one day is to be immortal for one day. * — **Chinese Proverb** <!-- END QUOTE -->
+*Life is like stepping onto a boat which is about to sail out to sea and sink.* — **Shunryu Suzuki** <!-- END QUOTE -->
