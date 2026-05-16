@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Life is like stepping onto a boat which is about to sail out to sea and sink.* — **Shunryu Suzuki** <!-- END QUOTE -->
+*It's the job that's never started that takes the longest to finish.* — **J.R.R. Tolkien** <!-- END QUOTE -->
