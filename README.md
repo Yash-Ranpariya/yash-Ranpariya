@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*It's the job that's never started that takes the longest to finish.* — **J.R.R. Tolkien** <!-- END QUOTE -->
+*The busy man is never wise and the wise man is never busy.* — **Lin Yutang** <!-- END QUOTE -->
