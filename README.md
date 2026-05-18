@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The busy man is never wise and the wise man is never busy.* — **Lin Yutang** <!-- END QUOTE -->
+*Go confidently in the direction of your dreams! Live the life you've imagined.* — **Henry David Thoreau** <!-- END QUOTE -->
