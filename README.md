@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Go confidently in the direction of your dreams! Live the life you've imagined.* — **Henry David Thoreau** <!-- END QUOTE -->
+*Only when I fall do I get up again.* — **Vincent van Gogh** <!-- END QUOTE -->
