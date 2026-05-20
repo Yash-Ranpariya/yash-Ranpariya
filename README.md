@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Only when I fall do I get up again.* — **Vincent van Gogh** <!-- END QUOTE -->
+*The greatest test of courage on earth is to bear defeat without losing heart.* — **Robert Greene** <!-- END QUOTE -->
