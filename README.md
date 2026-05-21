@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The greatest test of courage on earth is to bear defeat without losing heart.* — **Robert Greene** <!-- END QUOTE -->
+*Try not to become a man of success, but rather try to become a man of value.* — **Albert Einstein** <!-- END QUOTE -->
