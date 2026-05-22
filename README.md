@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Try not to become a man of success, but rather try to become a man of value.* — **Albert Einstein** <!-- END QUOTE -->
+*If you are far from the enemy, make him believe you are near.* — **Sun Tzu** <!-- END QUOTE -->
