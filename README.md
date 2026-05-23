@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*If you are far from the enemy, make him believe you are near.* — **Sun Tzu** <!-- END QUOTE -->
+*Peace of mind is that mental condition in which you have accepted the worst.* — **Lin Yutang** <!-- END QUOTE -->
