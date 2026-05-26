@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*You can't wait for inspiration. You have to go after it with a club.* — **Jack London** <!-- END QUOTE -->
+*However difficult life may seem, there is always something you can do and succeed at.* — **Stephen Hawking** <!-- END QUOTE -->
