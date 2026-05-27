@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*However difficult life may seem, there is always something you can do and succeed at.* — **Stephen Hawking** <!-- END QUOTE -->
+*If I persist long enough I will win.* — **Og Mandino** <!-- END QUOTE -->
