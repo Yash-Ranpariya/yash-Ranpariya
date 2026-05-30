@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Opportunity comes when you continually push forward.* — **Sonia Ricotti** <!-- END QUOTE -->
+*He that can have patience can have what he will.* — **Benjamin Franklin** <!-- END QUOTE -->
