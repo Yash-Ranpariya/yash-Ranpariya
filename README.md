@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*He that can have patience can have what he will.* — **Benjamin Franklin** <!-- END QUOTE -->
+*Till it has loved, no man or woman can become itself.* — **Emily Dickinson** <!-- END QUOTE -->
