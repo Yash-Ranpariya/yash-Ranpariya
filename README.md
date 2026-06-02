@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The art of being happy lies in the power of extracting happiness from common things.* — **Henry Ward Beecher** <!-- END QUOTE -->
+*Sometimes you have to lose all you have to find out who you truly are.* — **Roy T. Bennett** <!-- END QUOTE -->
