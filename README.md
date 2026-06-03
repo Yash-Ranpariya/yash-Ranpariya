@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Sometimes you have to lose all you have to find out who you truly are.* — **Roy T. Bennett** <!-- END QUOTE -->
+*If you do not change direction, you may end up where you are heading.* — **Lao Tzu** <!-- END QUOTE -->
