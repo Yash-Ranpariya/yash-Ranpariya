@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Conflict cannot survive without your participation.* — **Wayne Dyer** <!-- END QUOTE -->
+*Success is a consequence and must not be a goal.* — **Gustave Flaubert** <!-- END QUOTE -->
