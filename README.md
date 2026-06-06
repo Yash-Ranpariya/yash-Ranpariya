@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Success is a consequence and must not be a goal.* — **Gustave Flaubert** <!-- END QUOTE -->
+*Anxiety is the dizziness of freedom.* — **Soren Kierkegaard** <!-- END QUOTE -->
