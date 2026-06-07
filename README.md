@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Anxiety is the dizziness of freedom.* — **Soren Kierkegaard** <!-- END QUOTE -->
+*The eye with which I see God is the same eye with which God sees me.* — **Meister Eckhart** <!-- END QUOTE -->
