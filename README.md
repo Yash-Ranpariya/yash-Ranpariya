@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The eye with which I see God is the same eye with which God sees me.* — **Meister Eckhart** <!-- END QUOTE -->
+*Hope is a waking dream.* — **Aristotle** <!-- END QUOTE -->
