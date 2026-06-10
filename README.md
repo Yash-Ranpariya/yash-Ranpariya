@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The most important single ingredient in the formula of success is knowing how to get along with people.* — **Theodore Roosevelt** <!-- END QUOTE -->
+*Faith is taking the first step even when you don't see the whole staircase.* — **Martin Luther King, Jr.** <!-- END QUOTE -->
