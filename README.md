@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.* — **Sonia Ricotti** <!-- END QUOTE -->
+*Life is much more successfully looked at from a single window.* — **F. Scott Fitzgerald** <!-- END QUOTE -->
