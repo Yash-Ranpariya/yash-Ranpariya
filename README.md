@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Life is much more successfully looked at from a single window.* — **F. Scott Fitzgerald** <!-- END QUOTE -->
+*The whole is greater than the sum of its parts.* — **Aristotle** <!-- END QUOTE -->
