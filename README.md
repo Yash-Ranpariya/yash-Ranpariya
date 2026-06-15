@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Just do the best you can. No one can do more than that.* — **John Wooden** <!-- END QUOTE -->
+*If you take responsibility for yourself you will develop a hunger to accomplish your dream.* — **Les Brown** <!-- END QUOTE -->
