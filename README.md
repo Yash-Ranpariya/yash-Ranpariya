@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Emancipate yourself from mental slavery, none but ourselves can free our mind.* — **Bob Marley** <!-- END QUOTE -->
+*Do good, live in the most positive and joyful way possible every day.* — **Roy T. Bennett** <!-- END QUOTE -->
