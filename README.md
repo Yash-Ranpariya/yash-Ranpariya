@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Do good, live in the most positive and joyful way possible every day.* — **Roy T. Bennett** <!-- END QUOTE -->
+*Don't stop when you're tired. Stop when you're done.* — **Marilyn Monroe** <!-- END QUOTE -->
