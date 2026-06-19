@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Don't stop when you're tired. Stop when you're done.* — **Marilyn Monroe** <!-- END QUOTE -->
+*If what you're doing is not your passion, you have nothing to lose.* — **Celestine Chua** <!-- END QUOTE -->
