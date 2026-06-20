@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*If what you're doing is not your passion, you have nothing to lose.* — **Celestine Chua** <!-- END QUOTE -->
+*The number one cause of failure is the fear of failure.* — **Steve Harvey** <!-- END QUOTE -->
