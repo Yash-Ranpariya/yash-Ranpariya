@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The number one cause of failure is the fear of failure.* — **Steve Harvey** <!-- END QUOTE -->
+*It's the unknown we fear when we look upon death and darkness, nothing more.* — **Albus Dumbledore** <!-- END QUOTE -->
