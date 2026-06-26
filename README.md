@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The wise man's wealth lies in good deeds.* — **Tibetan Proverb** <!-- END QUOTE -->
+*Strategy is a commodity, execution is an art.* — **Peter Drucker** <!-- END QUOTE -->
