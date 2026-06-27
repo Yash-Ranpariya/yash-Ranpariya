@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Strategy is a commodity, execution is an art.* — **Peter Drucker** <!-- END QUOTE -->
+*The season of failure is the best time for sowing the seeds of success.* — **Paramahansa Yogananda** <!-- END QUOTE -->
