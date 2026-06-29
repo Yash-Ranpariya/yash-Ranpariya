@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*You get paid in direct proportion to the difficulty of problems you solve.* — **Elon Musk** <!-- END QUOTE -->
+*Heroes don't need to talk about what they did.* — **W.P. Kinsella** <!-- END QUOTE -->
