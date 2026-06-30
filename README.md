@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Heroes don't need to talk about what they did.* — **W.P. Kinsella** <!-- END QUOTE -->
+*The only lost cause is one we give up on before we enter the struggle.* — **Vaclav Havel** <!-- END QUOTE -->
