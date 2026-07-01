@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*The only lost cause is one we give up on before we enter the struggle.* — **Vaclav Havel** <!-- END QUOTE -->
+*Knowing others is wisdom, knowing yourself is enlightenment.* — **Lao Tzu** <!-- END QUOTE -->
