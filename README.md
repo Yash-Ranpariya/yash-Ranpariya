@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Knowing others is wisdom, knowing yourself is enlightenment.* — **Lao Tzu** <!-- END QUOTE -->
+*Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom.* — **Sonia Ricotti** <!-- END QUOTE -->
