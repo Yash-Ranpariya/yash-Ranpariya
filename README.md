@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*When you change what you believe, you change what you do.* — **Spencer Johnson** <!-- END QUOTE -->
+*Life is love and love is life.* — **Elvis Presley** <!-- END QUOTE -->
