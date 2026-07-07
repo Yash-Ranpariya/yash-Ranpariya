@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Your best life will not be found in comfort. It will be found in fighting for what you believe in.* — **Maxime Lagace** <!-- END QUOTE -->
+*Maybe you are searching among the branches, for what only appears in the roots.* — **Rumi** <!-- END QUOTE -->
