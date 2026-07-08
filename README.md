@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Maybe you are searching among the branches, for what only appears in the roots.* — **Rumi** <!-- END QUOTE -->
+*No matter what happens in life, never lose sight of who you are.* — **Yanni** <!-- END QUOTE -->
