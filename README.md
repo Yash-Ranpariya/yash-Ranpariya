@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*No matter what happens in life, never lose sight of who you are.* — **Yanni** <!-- END QUOTE -->
+*When something comes from within, when it is a part of you, you have no choice but to live it, to express it.* — **Kamal Ravikant** <!-- END QUOTE -->
