@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Don't let them drag you down by rumors. Just go with what you believe in.* — **Michael Jordan** <!-- END QUOTE -->
+*Realistic people do not accomplish extraordinary things.* — **John Eliot** <!-- END QUOTE -->
