@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*You can calculate the worth of a man by the number of his enemies.* — **Gustave Flaubert** <!-- END QUOTE -->
+*Life has no limitations except the ones you make.* — **Les Brown** <!-- END QUOTE -->
