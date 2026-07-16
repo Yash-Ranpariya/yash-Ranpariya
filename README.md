@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*You cannot find peace by avoiding life.* — **Virginia Woolf** <!-- END QUOTE -->
+*Learn to sit back and observe, not everything needs a reaction.* — **Unknown** <!-- END QUOTE -->
