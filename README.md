@@ -140,4 +140,4 @@ It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece. 
 ### 💬 Daily Dev Quote (Auto Committer Bot)
 
 > <!-- BEGIN QUOTE -->
-*Learn to sit back and observe, not everything needs a reaction.* — **Unknown** <!-- END QUOTE -->
+*When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.* — **Sonia Ricotti** <!-- END QUOTE -->
